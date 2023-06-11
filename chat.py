@@ -5,7 +5,7 @@ from streamlit_chat import message as msg
 import docx
 import io
 
-openai.api_key = os.getenv("SENHA_OPEN_AI")
+openai.api_key = os.getenv("senha")
 
 st.title("Hy2nIA Chat com ChatGPT Turbo")
 
