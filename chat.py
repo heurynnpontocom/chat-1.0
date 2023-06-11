@@ -8,7 +8,7 @@ import io
 openai.__version__
 '0.27.8'
 
-openai.api_key = os.getenv = "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"
+openai.api_key = os.getenv = "sk-"
 
 st.title("Hy2nIA Chat com ChatGPT Turbo")
 
